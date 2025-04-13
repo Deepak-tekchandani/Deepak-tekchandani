@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Java, Python, Data Structures, Algorithms**
 - 🤝 I’m looking for help with **AI and ML**
 - 💬 Ask me about **Backend (Java) Technologies**
-- 🧠 Recently participated and solved all 9 puzzles in **[CS50x Puzzle Day 2025](https://lnkd.in/dZnZv_qx)** hosted by Harvard University 🎉🧩
+- 🧠 Recently participated and solved all 9 puzzles in **[CS50x Puzzle Day 2025](https://github.com/Deepak-tekchandani/CS50x_Puzzle_Day_2025_Harvard)** hosted by Harvard University 🎉🧩
 - 📫 How to reach me: **deepaktekchandani143@gmail.com**
 - 📄 Check out my resume: [View Here](https://drive.google.com/file/d/1OQtz0SA6H5ArktlGeOWPT709WVKKB6Ou/view?usp=sharing)
 
