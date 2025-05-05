@@ -23,6 +23,14 @@
 - 📄 Check out my resume: [View Here](https://drive.google.com/file/d/1OQtz0SA6H5ArktlGeOWPT709WVKKB6Ou/view?usp=sharing)
 
 ---
+ # Completed International Hackathons🥇:
+
+<p float="left">
+ <a href="https://www.linkedin.com/feed/update/urn:li:activity:7324824876433739777/">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm8resu8w000a3573af0dznrd%2Fcm8resu8w000a3573af0dznrd_imageLink_hb3d5k0ejb.jpg&w=1080&q=75" width="390px" />
+  </a>
+</p>
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
