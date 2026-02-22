@@ -36,9 +36,25 @@ I am passionate about:
   
 ---
 # ⭐ Featured Projects
-## 🌿 Cotton Leaf Disease Detection
-- Deep Learning CNN model for plant disease classification
-- TensorFlow, Keras, Computer Vision
+## 🌿 Cotton Leaf Disease Detection — AI Web Application
+🔗 **Project Repository :** https://github.com/Deepak-tekchandani/cotton-leaf-disease-detection
+
+This project combines **Artificial Intelligence, Deep Learning, and Web Development** to detect cotton plant leaf diseases. It demonstrates how computer vision models (`.h5` and `.keras`) can be integrated into real-world applications through a user-friendly web system.
+> 🎓 **Enhanced & Upgraded Version of My Final Year Project (FYP)** — redesigned with improved deep learning models capable of detecting up to 7 cotton leaf diseases, along with full web-based integration.
+### 🔹 Key Technologies
+- Deep Learning & Computer Vision
+- Python, TensorFlow, Keras
+- Convolutional Neural Networks (CNN)
+- InceptionV3 Architecture
+- Flask (Python Web Framework)
+
+### 🦠 Features
+- Detects **7 cotton plant leaf diseases**
+- Real-time image prediction
+- AI model integrated into a web application
+  
+🌱 Designed to support smart agriculture by enabling early disease detection and reducing crop loss using AI.
+  ---
   
 ## 🏦 Core Banking Application – Bank Al-Habib
 - Microservices-based enterprise banking system
