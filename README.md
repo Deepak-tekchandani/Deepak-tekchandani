@@ -2,29 +2,51 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&color=00ff00&lines=I+am+Deepak+Kumar;Software+Engineer;Java+Developer" 
          alt="I am Deepak Kumar  | Software Engineer | Java Developer" />
 </h1>
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepak-tekchandani&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-tekchandani" />
+  🚀 Backend Engineer | Java & Spring Boot Specialist | Microservices Architect <br>
+  🎓 MS/PhD Aspirant in Artificial Intelligence , Machine Learning & Computer Science <br>
+  🌍 International Hackathon Participant | Stanford University Section Leader <br>
+  🤖 Exploring AI, Machine Learning & Intelligent Systems
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-tekchandani" alt="deepak-tekchandani" /></a>
+  <a href="https://www.linkedin.com/in/deepak-kumar-4aa25219a/"><img src="https://media.licdn.com/dms/image/v2/C4D03AQEjK7sFLANY4Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1656688786017?e=1773273600&v=beta&t=UMhIAx6A3fhdplvx2CDcsS06CgItY_LhZD_sh4mZlkY" alt="Deepak-Kumar" /></a>
 </p>
 
+## 👨‍💻 About Me
+
+I am a **Software Engineer** with 4+ years of professional experience building scalable enterprise applications and backend systems using **Java, Spring Boot, and Microservices architecture**.
+
+Currently contributing to a **Core Banking System** at Bank Al-Habib, focusing on performance, scalability, and secure financial solutions.
+
+I am passionate about:
+- Distributed Systems & Backend Engineering
+- Artificial Intelligence & Machine Learning
+- System Design & Clean Architecture
+- Mentorship and Global Tech Collaboration
+
+💡 I enjoy solving complex engineering problems and continuously improving system performance and developer experience.
 ---
-
-- 🔭 I’m currently working on **Bank Al-Habib (Core Banking Web-Application)**
+- 🔭 I’m currently working on **FinTech Project (Core Banking Web-Application)**
 - 🌱 I’m currently learning **Java, Python, Data Structures, Algorithms**
 - 🤝 I’m looking for help with **AI and ML**
 - 💬 Ask me about **Backend (Java) Technologies**
-- 📫 How to reach me: **deepaktekchandani143@gmail.com**
+- 📫 How to reach me: **deepaktekchandani143@gmail.com /WhatsApp : +92-344-3360685**
 - 📄 Check out my resume: [View Here](https://drive.google.com/file/d/1OQtz0SA6H5ArktlGeOWPT709WVKKB6Ou/view?usp=sharing)
   
-
 ---
-
-# 🎓 International Certifications & Contributions
+# ⭐ Featured Projects
+## 🌿 Cotton Leaf Disease Detection
+- Deep Learning CNN model for plant disease classification
+- TensorFlow, Keras, Computer Vision
+  
+## 🏦 Core Banking Application – Bank Al-Habib
+- Microservices-based enterprise banking system
+- Java, Spring Boot, Hibernate, IBM DB2
+- Performance optimization & secure API development
+  
+---
+# 🌍 International Achievements
 
 ## 🏫 Officially Certified by Stanford University | Section Leader – Code in Place 2025
 
@@ -56,24 +78,22 @@ As a **Section Leader**, I:
 ✅ Successfully solved **all 9 puzzles**  
 🏅 Earned official Certificate of Participation  
 🌍 Represented Pakistan in an international collaborative competition
+👥 Global Team
 
-## 👥 Global Team
-🔗  **[Certificate Verification](https://certificates.cs50.io/c744f103-514c-492f-8a8c-f06e37a0509a.pdf?size=letter)**
-🔗  **[More Details](https://github.com/Deepak-tekchandani/CS50x_Puzzle_Day_2025_Harvard?tab=readme-ov-file)**
+🔗 **[Certificate Verification](https://certificates.cs50.io/c744f103-514c-492f-8a8c-f06e37a0509a.pdf?size=letter)**
+🔗 **[More Details](https://github.com/Deepak-tekchandani/CS50x_Puzzle_Day_2025_Harvard?tab=readme-ov-file)**
 🔗 **[Shared on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7316847758076731392/)**
 
 ---
- # Completed International Hackathons🥇:
+## 🤖 AI Genesis Hackathon 2025 — ReplyMate AI Agent
 
+🌍 Successfully participated in the **International AI Genesis Hackathon 2025**, organized by **lablab.ai**, building an intelligent AI-powered messaging platform focused on secure communication and fraud detection.
 <p float="left">
  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7324824876433739777/">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm8resu8w000a3573af0dznrd%2Fcm8resu8w000a3573af0dznrd_imageLink_hb3d5k0ejb.jpg&w=1080&q=75" width="390px" />
   </a>
 </p>
 
-## 🤖 AI Genesis Hackathon 2025 — ReplyMate AI Agent
-
-🌍 Successfully participated in the **International AI Genesis Hackathon 2025**, organized by **lablab.ai**, building an intelligent AI-powered messaging platform focused on secure communication and fraud detection.
 
 ### 🚀 Project: ReplyMate AI Agent
 An AI-driven messaging assistant enabling secure, multi-platform communication with real-time fraud detection and contextual memory.
@@ -93,9 +113,7 @@ An AI-driven messaging assistant enabling secure, multi-platform communication w
 - 🤝 Collaborated with global AI engineers
 
 ### 🔗 Project Links
-📜 **Verified Certificate:** https://lnkd.in/d9i2pjr2  
-🧠 **Hackathon Submission:** https://lnkd.in/dcxRKtjG  
-💻 **GitHub Repository:** https://lnkd.in/diFm7cde
+📜 **[Certificate](https://lnkd.in/d9i2pjr2)** 🧠 **[Hackathon Submission](https://lnkd.in/dcxRKtjG)** 💻 **[GitHub Repository](https://lnkd.in/diFm7cde)** 🔗 **[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7324824876433739777/)**
 ---
 
 <h3 align="left">Connect with me:</h3>
