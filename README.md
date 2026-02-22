@@ -38,6 +38,7 @@ I am passionate about:
 # ⭐ Featured Projects
 ## 🌿 Cotton Leaf Disease Detection — AI Web Application
 🔗 **Project Repository :** https://github.com/Deepak-tekchandani/cotton-leaf-disease-detection
+
 🔗 **Demo Video :** https://www.youtube.com/watch?v=FObA19vg2ug
 
 This project combines **Artificial Intelligence, Deep Learning, and Web Development** to detect cotton plant leaf diseases. It demonstrates how computer vision models (`.h5` and `.keras`) can be integrated into real-world applications through a user-friendly web system.
